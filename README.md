@@ -46,10 +46,10 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 
 ```python
-$ sudo apt install python3
-$ pip3 install -r requirements.txt
-$ cd ETH-SEALER
-$ python3 ETH-SEALER.py
+sudo apt install python3
+pip3 install -r requirements.txt
+cd ETH-SEALER
+python3 ETH-SEALER.py
 ```
 
 
