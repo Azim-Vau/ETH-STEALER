@@ -47,6 +47,8 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 ```python
 sudo apt install python3
+sudo apt install git
+git clone https://github.com/Azim-Vau/ETH-SEALER.git
 pip3 install -r requirements.txt
 cd ETH-SEALER
 python3 ETH-SEALER.py
