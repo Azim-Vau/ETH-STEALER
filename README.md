@@ -50,6 +50,7 @@ sudo apt install python3
 sudo apt install git
 git clone https://github.com/Azim-Vau/ETH-SEALER.git
 cd ETH-SEALER
+chmod 777 run.sh
 ./run.sh
 ```
 
