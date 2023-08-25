@@ -44,6 +44,8 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 
 ```
 #### RUN SCRIPT LINUX
+```
+
 ```python
 $ sudo apt install python3
 $ pip3 install -r requirements.txt
